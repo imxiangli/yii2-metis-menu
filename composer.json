@@ -12,7 +12,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/metisMenu": "^2.5"
+        "bower-asset/metisMenu": "~2.5"
     },
     "autoload": {
         "psr-4": {
